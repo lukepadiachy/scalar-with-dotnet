@@ -15,8 +15,6 @@ It includes:
 - **Practical Examples**: Working endpoints with documentation integration
 - **Resource Collection**: Curated list of official documentation, tutorials, and community resources
 
-This repository provides practical examples and detailed guidance for creating beautiful, interactive API documentation with Scalar in .NET 9.
-
 ## Understanding API Documentation
 
 When building APIs (Application Programming Interfaces), it's good to provide clear documentation that explains how to use them. 
