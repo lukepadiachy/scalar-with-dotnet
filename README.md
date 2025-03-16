@@ -73,3 +73,12 @@ For more details, visit the [Scalar website](https://scalar.com/).
 After watching a video of Tim Correy on this topic. I decided to create docs for myself based on what I've learnt so far. Now I can always come back to re-learn and add more to it as I learn more on this topic
 
 You can find this video [here]((/docs/resources.md)).
+
+## Support This Project
+
+If you found this guide helpful, please consider sharing it with others:
+
+[![LinkedIn](https://img.shields.io/badge/Share-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/shareArticle?title=Scalar%20API%20Documentation%20Guide%20for%20.NET%209&url=https://github.com/lukepadiachy/scalar-with-dotnet)
+[![X](https://img.shields.io/badge/Share-X-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20out%20this%20Scalar%20API%20Documentation%20guide%20for%20.NET%209!%20https://github.com/lukepadiachy/scalar-with-dotnet)
+[![Facebook](https://img.shields.io/badge/Share-Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/lukepadiachy/scalar-with-dotnet)
+[![WhatsApp](https://img.shields.io/badge/Share-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?text=Check%20out%20this%20Scalar%20API%20Documentation%20guide%20for%20.NET%209!%20https://github.com/lukepadiachy/scalar-with-dotnet)
