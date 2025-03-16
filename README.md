@@ -2,6 +2,21 @@
 
 ![scalar-with-dotnet-image](/assets/scalar-with-dotnet-image.png)
 
+## Hmm Introduction
+
+This repository serves as a guide for implementing Scalar in ASP.NET Core Web APIs,as an alternative to Swagger UI documentation. 
+
+It includes:
+
+- **Complete Web API Example**: A functional ASP.NET Core Web API project showcasing Scalar integration
+- **Step-by-Step Documentation**: Detailed guides covering installation, configuration, and customization
+- **Best Practices**: Examples of code organization and separation of concerns
+- **Customization Options**: Various examples of Scalar themes, layouts, and configuration options
+- **Practical Examples**: Working endpoints with documentation integration
+- **Resource Collection**: Curated list of official documentation, tutorials, and community resources
+
+This repository provides practical examples and detailed guidance for creating beautiful, interactive API documentation with Scalar in .NET 9.
+
 ## Understanding API Documentation
 
 When building APIs (Application Programming Interfaces), it's good to provide clear documentation that explains how to use them. 
